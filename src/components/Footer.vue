@@ -3,7 +3,7 @@
     <div>
         <font-awesome-icon class="copyright-icon" icon="copyright"/> 
         2022
-        | <a href="https://github.com/hbollon/portfolio-vuejs" target="_blank">Yahya Hachlaf</a> 
+        | <a href="https://github.com/Crushoverride007/YahyaPort.git" target="_blank">Yahya Hachlaf</a> 
     </div>
     <SocialBar :links="links"/>
   </footer>
