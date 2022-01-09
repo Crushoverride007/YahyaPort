@@ -59,7 +59,7 @@ VUE_APP_COSMICJS_BUCKET_READ_KEY=" "
 
 👤 **Yahya Hachlaf**
 
-* Github: [@hbollon](https://github.com/)
-* LinkedIn: [@Yahya Hachlaf](https://www.linkedin.com/in/)
-* Portfolio: [hugobollon.me](https://hachlafyahya.cf)
+* Github: [@yahya-hachlaf](https://github.com/yahya-hachlaf)
+* LinkedIn: [@Yahya Hachlaf](https://www.linkedin.com/in/yahya-hachlaf-6b13211a5/)
+* Portfolio: [hachlafyahya.cf](https://hachlafyahya.cf)
 
